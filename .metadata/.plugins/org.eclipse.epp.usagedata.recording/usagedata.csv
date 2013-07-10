@@ -1,0 +1,128 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"Failed to load properties file for project 'metagun-android'",1373441351272
+error,log,,,"Failed to load properties file for project 'model-loaders-android'",1373441351273
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.core.resources"".",1373441351274
+error,log,,,"Failed to load properties file for project 'model-loaders-android'",1373441351275
+error,log,,,"Failed to load properties file for project 'pax-britannica-android'",1373441351276
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.core.resources"".",1373441351276
+error,log,,,"Failed to load properties file for project 'pax-britannica-android'",1373441351277
+error,log,,,"Failed to load properties file for project 'superjumper-android'",1373441351278
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.core.resources"".",1373441351278
+error,log,,,"Failed to load properties file for project 'superjumper-android'",1373441351279
+error,log,,,"Failed to load properties file for project 'very-angry-robots-android'",1373441351280
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.core.resources"".",1373441351280
+error,log,,,"Failed to load properties file for project 'very-angry-robots-android'",1373441351281
+error,log,,,"Errors occurred during the build.",1373441351285
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1373441351344
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1373441356630
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1373441364198
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1373441366888
+executed,command,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.project.cleanAction",1373441366895
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1373441367280
+error,log,,,"Failed to load properties file for project 'cuboc-android'",1373441368023
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.core.resources"".",1373441368024
+error,log,,,"Failed to load properties file for project 'cuboc-android'",1373441368024
+error,log,,,"Failed to load properties file for project 'cuboc-android'",1373441368026
+error,log,,,"Failed to load properties file for project 'gdx-invaders-android'",1373441368061
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.core.resources"".",1373441368061
+error,log,,,"Failed to load properties file for project 'gdx-invaders-android'",1373441368062
+error,log,,,"Failed to load properties file for project 'gdx-invaders-android'",1373441368063
+started,bundle,org.eclipse.jpt.common.core,1.0.2.v201111103010,"org.eclipse.jpt.common.core",1373441368495
+started,bundle,org.eclipse.jpt.jpa.core,3.0.2.v201201243020,"org.eclipse.jpt.jpa.core",1373441368527
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1373441368747
+executed,command,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.project.buildAutomatically",1373441372005
+error,log,,,"Failed to load properties file for project 'gdx-remote'",1373441373749
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.core.resources"".",1373441373750
+error,log,,,"Failed to load properties file for project 'gdx-remote'",1373441373750
+error,log,,,"Failed to load properties file for project 'gdx-remote'",1373441373751
+opened,view,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.views.ProgressView",1373441374209
+activated,view,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.views.ProgressView",1373441374241
+error,log,,,"Failed to load properties file for project 'gdx-remote'",1373441375010
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1373441378099
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1373441379296
+executed,command,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.project.cleanAction",1373441379306
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1373441379596
+error,log,,,"Failed to load properties file for project 'cuboc-android'",1373441380070
+error,log,,,"Failed to load properties file for project 'gdx-invaders-android'",1373441380070
+error,log,,,"Failed to load properties file for project 'gdx-remote'",1373441380071
+error,log,,,"Failed to load properties file for project 'cuboc-android'",1373441380107
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.core.resources"".",1373441380108
+error,log,,,"Failed to load properties file for project 'cuboc-android'",1373441380108
+error,log,,,"Failed to load properties file for project 'cuboc-android'",1373441380110
+error,log,,,"Failed to load properties file for project 'gdx-invaders-android'",1373441380144
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.core.resources"".",1373441380144
+error,log,,,"Failed to load properties file for project 'gdx-invaders-android'",1373441380145
+error,log,,,"Failed to load properties file for project 'gdx-invaders-android'",1373441380146
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1373441380476
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1373441380561
+error,log,,,"Failed to load properties file for project 'cuboc-android'",1373441381626
+error,log,,,"Failed to load properties file for project 'gdx-invaders-android'",1373441381626
+error,log,,,"Failed to load properties file for project 'gdx-remote'",1373441382525
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.core.resources"".",1373441382526
+error,log,,,"Failed to load properties file for project 'gdx-remote'",1373441382526
+error,log,,,"Failed to load properties file for project 'gdx-remote'",1373441382527
+error,log,,,"Failed to load properties file for project 'gdx-remote'",1373441383185
+error,log,,,"Failed to load properties file for project 'gdx-vectorpinball-android'",1373441384495
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.core.resources"".",1373441384496
+error,log,,,"Failed to load properties file for project 'gdx-vectorpinball-android'",1373441384496
+error,log,,,"Failed to load properties file for project 'gdx-vectorpinball-android'",1373441384498
+error,log,,,"Failed to load properties file for project 'metagun-android'",1373441384501
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.core.resources"".",1373441384502
+error,log,,,"Failed to load properties file for project 'metagun-android'",1373441384502
+error,log,,,"Failed to load properties file for project 'metagun-android'",1373441384504
+error,log,,,"Failed to load properties file for project 'model-loaders-android'",1373441384510
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.core.resources"".",1373441384510
+error,log,,,"Failed to load properties file for project 'model-loaders-android'",1373441384511
+error,log,,,"Failed to load properties file for project 'model-loaders-android'",1373441384512
+error,log,,,"Failed to load properties file for project 'pax-britannica-android'",1373441384521
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.core.resources"".",1373441384522
+error,log,,,"Failed to load properties file for project 'pax-britannica-android'",1373441384523
+error,log,,,"Failed to load properties file for project 'pax-britannica-android'",1373441384525
+error,log,,,"Failed to load properties file for project 'superjumper-android'",1373441384529
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.core.resources"".",1373441384531
+error,log,,,"Failed to load properties file for project 'superjumper-android'",1373441384531
+error,log,,,"Failed to load properties file for project 'superjumper-android'",1373441384533
+error,log,,,"Failed to load properties file for project 'very-angry-robots-android'",1373441384538
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.core.resources"".",1373441384539
+error,log,,,"Failed to load properties file for project 'very-angry-robots-android'",1373441384540
+error,log,,,"Failed to load properties file for project 'very-angry-robots-android'",1373441384541
+error,log,,,"Failed to load properties file for project 'gdx-vectorpinball-android'",1373441384549
+error,log,,,"Failed to load properties file for project 'metagun-android'",1373441384550
+error,log,,,"Failed to load properties file for project 'model-loaders-android'",1373441384550
+error,log,,,"Failed to load properties file for project 'pax-britannica-android'",1373441384551
+error,log,,,"Failed to load properties file for project 'superjumper-android'",1373441384551
+error,log,,,"Failed to load properties file for project 'very-angry-robots-android'",1373441384552
+error,log,,,"Errors occurred during the build.",1373441384561
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1373441385517
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1373441389235
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1373441392503
+executed,command,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.project.cleanAction",1373441392519
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1373441392832
+error,log,,,"Failed to load properties file for project 'cuboc-android'",1373441393828
+error,log,,,"Failed to load properties file for project 'gdx-invaders-android'",1373441393829
+error,log,,,"Failed to load properties file for project 'gdx-remote'",1373441393829
+error,log,,,"Failed to load properties file for project 'gdx-vectorpinball-android'",1373441393830
+error,log,,,"Failed to load properties file for project 'metagun-android'",1373441393830
+error,log,,,"Failed to load properties file for project 'model-loaders-android'",1373441393830
+error,log,,,"Failed to load properties file for project 'pax-britannica-android'",1373441393831
+error,log,,,"Failed to load properties file for project 'superjumper-android'",1373441393831
+error,log,,,"Failed to load properties file for project 'very-angry-robots-android'",1373441393832
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1373441393877
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1373441395399
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1373441397513
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1373441433366
+started,bundle,org.eclipse.jst.ws.jaxws.dom.integration,1.0.101.v201201031437,"org.eclipse.jst.ws.jaxws.dom.integration",1373441436093
+started,bundle,org.eclipse.jst.ws.jaxws.dom.ui,1.0.0.v201004171919,"org.eclipse.jst.ws.jaxws.dom.ui",1373441436164
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1373441440103
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1373446162642
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1373446163455
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1373447882323
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1373447884233
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1373447886768
+closed,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1373447888019
+stopped,bundle,org.eclipse.jst.ws.axis.creation.ui,1.0.700.v201104070312,"org.eclipse.jst.ws.axis.creation.ui",1373447892786
+stopped,bundle,org.eclipse.jst.ws.axis.consumption.ui,1.0.505.v201004211805,"org.eclipse.jst.ws.axis.consumption.ui",1373447892855
+stopped,bundle,org.eclipse.jst.ws.axis.consumption.core,1.0.407.v201104071820,"org.eclipse.jst.ws.axis.consumption.core",1373447892919
+stopped,bundle,org.eclipse.jst.ws.axis2.creation.ui,1.0.104.v201004211805,"org.eclipse.jst.ws.axis2.creation.ui",1373447892970
+stopped,bundle,org.eclipse.jst.ws.axis2.consumption.ui,1.0.103.v201004211805,"org.eclipse.jst.ws.axis2.consumption.ui",1373447893098
+stopped,bundle,org.eclipse.jst.ws.axis2.creation.core,1.0.106.v201004211805,"org.eclipse.jst.ws.axis2.creation.core",1373447893152
